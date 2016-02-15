@@ -1,0 +1,28 @@
+name: Trip Adviser Assistant
+favicon: null
+layout_spectrum: 0.15794207667931914
+typography_spectrum: 0.8682156139984727
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8424147558398545
+  lightness: 0.5493186884559691
+  saturation: 0.8935792213305831
+  rhythmicContrast: 0.35679105413146317
+purpose: []
